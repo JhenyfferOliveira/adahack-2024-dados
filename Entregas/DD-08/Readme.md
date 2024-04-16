@@ -9,6 +9,7 @@
 + Eduardo Augusto
 + Jhenyffer Oliveira
 + José Truta
++ João Victor Lemos
 + Lisnane Oliveira
 + Rodrigo Udenal
 
